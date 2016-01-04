@@ -4,7 +4,7 @@ An Ansible role that creates and installs a Silverstripe project on beetbox.
 
 ## Requirements
 
-This role is specifically developed as an extention to beetbox -- https://github.com/drupalmel/beetbox
+This role is specifically developed as an extension to beetbox -- https://github.com/drupalmel/beetbox
 
 ## Role Variables
 
@@ -37,7 +37,6 @@ Silverstripe admin account password.
 Silverstripe path to sake. Relative to project root.
     
     ss_sake_path: /framework/sake
-
 
 ## Dependencies
 
