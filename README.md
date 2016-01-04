@@ -14,9 +14,9 @@ Create a new Silverstripe project.
 
     ss_create_project: no
     
-Silverstripe project version. This can be the full 40-character SHA-1 hash, the literal string HEAD, a branch name, or a tag name.
+Silverstripe project version. Composer compatible version, leave blank to use the latest version.
     
-    ss_version: "HEAD"
+    ss_version: ""
     
 Install Silverstripe project.
     

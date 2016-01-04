@@ -1,7 +1,7 @@
 ---
 beet_root: "/path/to/project"
 ss_create_project: no
-ss_version: "HEAD"
+ss_version: ""
 ss_env_type: dev
 ss_install_site: no
 ss_account_name: admin
