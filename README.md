@@ -4,7 +4,7 @@ An Ansible role that creates and installs a Silverstripe project on beetbox.
 
 ## Requirements
 
-This role is specifically developed as an extension to beetbox -- https://github.com/drupalmel/beetbox
+This role is specifically developed as an extension to beetbox -- https://github.com/beetboxvm/beetbox
 
 ## Role Variables
 
@@ -40,7 +40,7 @@ Silverstripe path to sake. Relative to project root.
 
 ## Dependencies
 
-- Beetbox -- https://github.com/drupalmel/beetbox
+- Beetbox -- https://github.com/beetboxvm/beetbox
 
 ## License
 
