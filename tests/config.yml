@@ -1,4 +1,5 @@
 ---
+beet_root: "home/ubuntu/workspace"
 beet_project: silverstripe
 ss_create_project: yes
 ss_install_site: yes
